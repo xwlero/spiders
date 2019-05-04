@@ -11,11 +11,11 @@ from twisted.enterprise import adbapi
 class BiliPipeline(object):
     def __init__(self, ):
         dbparms = dict(
-            host='127.0.0.1',
-            db='bilibili',
-            user='root',
-            passwd='1234',
-            charset='utf8mb4',
+            host='',
+            db='',
+            user='',
+            passwd='',
+            charset='',
             cursorclass=pymysql.cursors.DictCursor, # 指定 curosr 类型
             use_unicode=True,
         )

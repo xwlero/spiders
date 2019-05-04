@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31b0a6e9-b3ba-41c0-bd1c-8d2602f681bc" name="Default Changelist" comment="" />
+    <list default="true" id="31b0a6e9-b3ba-41c0-bd1c-8d2602f681bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../bili _danmu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bili _danmu/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bili _danmu/bili/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bili _danmu/bili/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bili _danmu/bili/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bili _danmu/bili/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bili _danmu/bili/spiders/bilibili.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bili _danmu/bili/spiders/bilibili.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bili _danmu_update/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bili _danmu_update/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bili _danmu_update/bili/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bili _danmu_update/bili/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bili _danmu_update/bili/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bili _danmu_update/bili/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bili/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bili/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bili/bili/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bili/bili/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bili/bili/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bili/bili/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bili/bili/spiders/bilibili.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bili/bili/spiders/bilibili.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bili/up_id.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bili/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/bili/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bili/spiders/bilibili.py" beforeDir="false" afterPath="$PROJECT_DIR$/bili/spiders/bilibili.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +77,22 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1778186528">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bili/items.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1560">
+            <state relative-caret-position="1456">
               <caret line="52" selection-start-line="52" selection-end-line="52" />
               <folding>
                 <marker date="1540868051589" expanded="true" signature="197:202" ph="..." />
@@ -80,7 +104,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bili/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
+            <state relative-caret-position="-1496">
               <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
             </state>
           </provider>
@@ -89,24 +113,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bili/spiders/bilibili.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-510">
-              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+            <state relative-caret-position="-1820">
+              <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
-                <marker date="1543472045434" expanded="true" signature="168:185" ph="..." />
-                <marker date="1543472045434" expanded="true" signature="184:185" ph="..." />
-                <marker date="1543472045434" expanded="true" signature="1339:1340" ph="..." />
-                <marker date="1543472045434" expanded="true" signature="4982:4987" ph="..." />
+                <marker date="1556954233019" expanded="true" signature="168:185" ph="..." />
+                <marker date="1556954233019" expanded="true" signature="184:185" ph="..." />
+                <marker date="1556954233019" expanded="true" signature="1304:1305" ph="..." />
+                <marker date="1556954233019" expanded="true" signature="4947:4952" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bili/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="36" column="66" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="66" />
+            <state relative-caret-position="196">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
               <folding>
                 <element signature="e#193#207#0" expanded="true" />
               </folding>
@@ -123,6 +147,9 @@
       <find>danmu_pat</find>
       <find>game_name</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -163,6 +190,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -226,10 +254,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07462686" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07506702" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -243,7 +271,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.29067245" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.29078013" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -259,50 +287,44 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/scrapy/spiders/__init__.py">
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/scrapy/spiders/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/bili/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1746">
-          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+        <state relative-caret-position="196">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="e#193#207#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bili/items.py">
+    <entry file="file://$PROJECT_DIR$/bili/spiders/bilibili.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1560">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="-1820">
+          <caret line="14" column="72" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
           <folding>
-            <marker date="1540868051589" expanded="true" signature="197:202" ph="..." />
+            <element signature="e#24#37#0" expanded="true" />
+            <marker date="1556954233019" expanded="true" signature="168:185" ph="..." />
+            <marker date="1556954233019" expanded="true" signature="184:185" ph="..." />
+            <marker date="1556954233019" expanded="true" signature="1304:1305" ph="..." />
+            <marker date="1556954233019" expanded="true" signature="4947:4952" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bili/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
+        <state relative-caret-position="-1496">
           <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bili/spiders/bilibili.py">
+    <entry file="file://$PROJECT_DIR$/bili/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510">
-          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        <state relative-caret-position="1456">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
           <folding>
-            <element signature="e#24#37#0" expanded="true" />
-            <marker date="1543472045434" expanded="true" signature="168:185" ph="..." />
-            <marker date="1543472045434" expanded="true" signature="184:185" ph="..." />
-            <marker date="1543472045434" expanded="true" signature="1339:1340" ph="..." />
-            <marker date="1543472045434" expanded="true" signature="4982:4987" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bili/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="36" column="66" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="66" />
-          <folding>
-            <element signature="e#193#207#0" expanded="true" />
+            <marker date="1540868051589" expanded="true" signature="197:202" ph="..." />
           </folding>
         </state>
       </provider>

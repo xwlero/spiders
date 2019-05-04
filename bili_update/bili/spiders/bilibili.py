@@ -12,7 +12,7 @@ def trantuple(x):
 class BilibiliSpider(scrapy.Spider):
     name = 'bili'
     allowed_domains = ['bilibili.com']
-    conn = pymysql.connect(host="118.89.149.66", user="xwl", passwd="hero", db="bilibili", charset="utf8mb4")
+    conn = pymysql.connect(host="", user="", passwd="", db="", charset="")
     def start_requests(self):
         sql = 'select up_id from bilibili.up_list limit;'
         mids=self.chaxun(sql)

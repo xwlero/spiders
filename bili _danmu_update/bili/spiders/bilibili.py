@@ -12,7 +12,7 @@ import pandas as pd
 class BilibiliSpider(scrapy.Spider):
     name = 'bili_danmu'
     danmu_pat = re.compile('<d p=(.*?)</d>')
-    conn = pymysql.connect(host="127.0.0.1", user="xwl", passwd="hero", db="bilibili", charset="utf8mb4")
+    conn = pymysql.connect(host="", user="", passwd="", db="", charset="")
     def start_requests(self):
         sql='select a.aid,a.up_name,a.up_id,a.pubdate,a.cid from av_danmu  a JOIN(select aid,max(pubdate) pubdate from av_danmu group by aid) b on a.aid=b.aid and a.pubdate=b.pubdate group by aid,up_name,up_id,cid,pubdate;'
         av_info=self.chaxun(sql)

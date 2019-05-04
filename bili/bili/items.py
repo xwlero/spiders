@@ -50,14 +50,4 @@ class av_comment(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     comment= scrapy.Field()
-"""
-class av_danmu(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    aid= scrapy.Field()
-    up_name=scrapy.Field()
-    up_id= scrapy.Field()
-    cid= scrapy.Field()
-    danmu= scrapy.Field()
-    pubdate=scrapy.Field()
-"""
+

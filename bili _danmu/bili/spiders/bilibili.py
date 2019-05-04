@@ -2,11 +2,9 @@
 import scrapy
 import json
 import time
-import datetime
 import re
 import pymysql
 from bili.items import av_danmu
-#import random
 import pandas as pd
 def trans(x):
     x = x.replace('>', ',').split(',')

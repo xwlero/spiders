@@ -9,25 +9,7 @@ from scrapy import signals
 import time
 import random
 import threading
-c1=['15382178638', '12345hero']
-c2=['xwlero@163.com', '12345hero']
-c3=['heroxwl@qq.com', '12345hero']
-c4=['861904836@qq.com', '12345hero']
-c5=['18173003598', 'dengxiaowen']
-c6=['530863409@qq.com', 'dengxiaowen']
-c7=['lixiangyan@outlook.com','lxy123']
-c8=['75976138@qq.com','bilibili']
-c9=['onywd1163','19940320']
-c10=['l2632734669','8ad87c51']
-c11=['1248502877@qq.com','12345hero']
-c12=['17091316657','Bzhan1472580']
-c13=['xwlero@foxmail.com','12345hero']
-c14=['13918678115','bilibili_lxy']
-c15=['whylolil@qq.com','12345hero']
-c16=['15382178638@sina.cn','12345hero']
-c17=['2418344094@qq.com','Bzhan1472580']
-c18=['gamedateline@foxmail.com','Bzhan1472580']
-c19=['chloe1811@mail.com','c12345678']
+#你的账号
 clist=[c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11,c12,c13,c14,c15,c16,c17,c18,c19]
 cookies=[]
 xianzhichi=[]

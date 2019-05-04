@@ -6,13 +6,6 @@ import math
 from bili.items import BiliItem,av_info,av_comment
 
 
-
-"""
-def trans(x):
-    x = x.replace('>', ',')
-    x = x.split(',')
-    return [x[6], x[8]]
-"""
 class BilibiliSpider(scrapy.Spider):
     name = 'bili'
     allowed_domains = ['bilibili.com']
